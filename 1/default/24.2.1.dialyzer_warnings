@@ -1,0 +1,6 @@
+/home/michal/Erlang/euler/src/euler_app.erl:45:29: The call io:format
+         ("~n",
+          Number :: integer()) breaks the contract 
+          (Format, Data) -> 'ok'
+             when Format :: format(), Data :: [term()]
+

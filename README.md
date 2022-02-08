@@ -1,9 +1,2 @@
-euler
+learning Erlang through Euler project 
 =====
-
-An OTP application
-
-Build
------
-
-    $ rebar3 compile
